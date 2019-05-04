@@ -1,1 +1,1 @@
-# laravel-model-meta
+# codeigniter-model-meta
